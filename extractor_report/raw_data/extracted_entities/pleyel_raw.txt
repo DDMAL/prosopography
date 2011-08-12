@@ -1,0 +1,335 @@
+IGNAZ PLEYEL
+
+Word count
+	Bakers - 314
+	Oxford - 139
+	Wiki - 251
+
+#######
+-HUMAN-
+#######
+
+Bakers - 11
+	People - 3
+		Pleyel, Ignaz
+		haydn
+		Salomon
+	Locations - 6
+		Ruppertsthal
+		Vienna
+		Paris
+		Rome
+		London
+		Paris
+	positions - 1
+		kapellmeister
+	facilities - 1
+		strassburg minster
+Oxford - 16
+	People - 6
+		Ignaz Joseph Pleyel
+		Joseph Haydn
+		Camille
+		Auguste Wolff
+		Gustave Lyon
+		Kalkbrenner
+	Locations - 4
+		Vienna
+		Paris
+		Rome
+		London
+	positions - 5
+		composer
+		violinist
+		pianist
+		choirmaster
+		music dealer
+	organisations - 1
+		Gaveau-Erard
+Wiki - 16
+	people - 8
+		pleyel
+		franz xaver richter
+		ignace
+		francoise-garcrielle lefebvre
+		camille
+		maria pleyel
+		haydn
+		johann peter salomon
+	locaitons - 3
+		strascourg
+		france
+		london
+	positions - 4
+		assistant
+		maitre de chapelle
+		pianist
+		teacher
+	facilities - 1
+		strascourg cathedral
+############
+-OpenCalais-
+############
+
+Bakers - 8
+	People - 1
+		Haydn
+	Locations - 4
+		London
+		Paris
+		Rome
+		Vienna
+	Positions - 3
+		extremely prolific instrumental
+		Strassburg Minister
+		teacher
+Oxford - 15
+	People - 5
+		Auguste Wolff
+		Camille
+		Gustab Lyon
+		Joseph Haydn
+		Joseph Pleyel
+	Locations - 4
+		London
+		Paris
+		Rome
+		Vienna
+	Organisatiosn - 3
+		Brunswick corporation
+		Gaveau Limited
+		Wilhelm Schimmel, Pianofortefabrik
+	positions - 3
+		composer, violinist
+		dealer
+		violinist, pianist
+Wiki - 14
+	People - 6
+		Camille
+		Franz Xavier Richter
+		Francoise-Gabrielle Lefebvre
+		Johann Peter Salomon
+		Maria Pleyel
+		Wilhelm Cramer
+	Locations - 3
+		London
+		Strasbourg
+		France
+	Facilities - 2
+		Strasbourg Cathedral
+		The Cathedral
+	positions - 3
+		assistant
+		organist
+		teacher
+	
+
+#########
+-DBpedia-
+#########
+
+Bakers - 10
+		winter
+		conduct
+		composition
+		instrument
+		composer
+		sextet
+		strings
+		quartet
+		concertos
+		wind instrument
+Oxford - 2
+		Paris
+		Kalkbrenner
+Wiki - 13
+		strasbourg
+		organist
+		work
+		maitre de chapelle
+		orchestra
+		works
+		cathedral
+		concerts
+		daughter
+		children
+		wife
+		concerts
+		rival
+		
+#########
+-Zemanta-
+#########
+
+Bakers - 14
+		vienna
+		paris
+		haydn
+		violins
+		rome
+		london
+		cello
+		onslow
+		salomon
+		string-quintets
+		paris
+		rome
+		music
+		stringed
+Oxford - 10
+		Joseph Haydn
+		Paris
+		Vienna
+		Rome
+		London
+		Strasbourg
+		piano
+		music
+		arts
+		keyboard
+Wiki - 10
+		strasboug cathedral
+		strasbourg, france
+		franz xaver richter
+		french recolutions
+		pleyel
+		wilhelm cramer
+		johann peter salomon
+		maitre dechapelle
+		france
+		ignace
+###########
+-Extractiv-
+###########
+
+Bakers - 10
+	People - 3
+		Haydn
+		ignaz Joseph
+		pleyel
+	Locations - 4
+		London
+		Paris
+		Strassburg
+		Vienna
+	Others - 3
+		state
+		composer
+		piano
+Oxford - 16
+	People - 4
+		Auguste Wolff
+		Camille
+		Joseph Haydn
+		Pleyel
+	Locations - 6
+		Austrian
+		London
+		Paris
+		Rome
+		Strasbourg cath
+		Vienna
+	Organisations - 2
+		Gaveau
+		Schimmel of Brunswick
+	Others - 4
+		composer
+		pianist
+		piano
+		violinist
+Wiki - 15
+	People - 6
+		Camille
+		Franz Xaver Richter
+		Haydn
+		Pleyel
+		Maria Pleyel
+		Wilhem Cramer
+	Locations - 3
+		France
+		London
+		Strasbourg
+	Organisations - 2
+		Cathedral
+		strasbourg cathedral
+	otehrs - 4
+		french revolution
+		organist
+		symphonies
+		french
+#########
+-Alchemy-
+#########
+
+Bakers - 16
+	People - 3
+		Salomon
+		Ignaz Joseph
+		*Ruppertsthal
+	Locations - 4
+		Paris
+		Vienna
+		London
+		Rome
+	organisations - 1
+		Strassburg Minster
+	concepts - 8
+		Wolfgang Amadeus Mozart
+		Orchestra
+		Cello
+		Violin family
+		Viola
+		Violin
+		String instrument
+		Music
+Oxford - 22
+	People - 9
+		Joseph Pleyel
+		Auguste Wolff
+		Camille
+		Joseph Haydn
+		Ignaz
+		Gustave Lyon
+		Schimmel
+		Gaveau‐Érard
+		Brunswick
+	Locations - 5
+		Paris
+		Strasbourg
+		Vienna
+		Rome
+		London
+	concepts - 8
+		January 26
+		March 4
+		Wolfgang Amadeus Mozart
+		Eisenstadt
+		January 21
+		1867
+		May 23
+		1725
+Wiki - 20
+	People - 7
+		Maria Pleyel
+		Richter
+		de chapelle
+		Johann Peter Salomon
+		Francoise-Gabrielle Lefebvre
+		haydn
+		Wilhelm Cramer
+	Locations - 4	
+		Strasbourg
+		Camille
+		London
+		France
+	Facilities - 1
+		Strasbourg Cathedral
+	Concepts - 8
+		French Revolution
+		Strasbourg Cathedral
+		Joeseph Haydn
+		Paris
+		Orchestra
+		Music
+		Age of Enlightenment
+		France

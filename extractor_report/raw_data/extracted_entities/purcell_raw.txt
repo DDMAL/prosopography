@@ -1,0 +1,540 @@
+HENRY PURCELL
+
+Word count
+	Bakers - 861
+	Oxford - 522
+	Wiki - 556
+
+#######
+-HUMAN-
+#######
+
+Bakers - 23
+	People - 16
+		Purcell Henry
+		Dr. Blow
+		Cooke
+		Humphrey
+		Dryden
+		Mrs. Behn
+		Matthew Locke
+		Josias Priest
+		Lowe
+		king Charles
+		King James
+		D'urfey
+		Shadwell
+		Lully
+		Nahum Tate
+		King Arthur
+	Locations - 2
+		Westminster
+		London
+	Facilities - 2
+		Chapel Royal
+		Westminster Abbey
+		
+	Positinos - 3
+		choirister
+		composer
+		organist
+Oxford - 24
+	People - 17
+		Purcell, Henry
+		thomas purcell
+		Humphrey
+		Blow
+		Matthew Locke
+		Dryden
+		Congreve
+		Shadwell
+		Brady
+		Behn
+		James II
+		William III
+		Josias Priest
+		Queen Mary
+		Holst
+		Vaughan Williams
+		Benjamin Britten
+	Locations - 2
+		London
+		Chelsea
+	Facilities - 2
+		Westminster Abbey
+		Chapel Royal
+	positions - 3
+		tuner
+		composer
+		organst
+Wiki - 25
+	People - 13
+		Purcell
+		Henry Purcell senior
+		Thomas Purcell
+		King Charles II
+		Edward
+		Henry
+		Daniel Purcell
+		captain henry cooke
+		pelham Humphrey
+		john hingston
+		john blow
+		john playford
+		john ghostling
+	Locations - 2
+		Westminster
+		England
+	Facilities - 2
+		Chapel Royal
+		Westminster Abbey
+	position - 8
+		assistant
+		captain
+		king
+		musician
+		composer
+		queen
+		copyist
+		chorister
+		
+############
+-OpenCalais-
+############
+
+Bakers - 23
+	People - 10
+		Mrs. Behn
+		Dr Blow
+		Charles
+		D'Urfey
+		Dido
+		Henry Purcell
+		James
+		Jorias Priest
+		Nahum Tate
+		Welcome Song
+	Locations - 5
+		Athens
+		Gloucester
+		London
+		Windsor
+		York
+		
+	Facilities - 3
+		Chapel Royal
+		English Opera
+		Westminster Abbey
+	positions - 5
+		author
+		dean
+		king
+		model
+		organist
+		
+		
+Oxford - 18
+	People - 10
+		Benjamin Britten
+		Dido
+		Henry Purcell
+		Holst
+		James II
+		Mary
+		Matthew Locke
+		Thomas Purcell
+		Vaughan Williams
+		William III
+	Locations - 1
+		London
+	Facilities - 2
+		chapel royal
+		westminster abbey
+	position - 5
+		composer
+		composer and organist
+		king
+		organist
+		queen
+Wiki - 23
+	People - 12
+		charles II
+		daniel purcell
+		edward
+		henry cooke
+		henry purcell
+		humfrey
+		john blow
+		john gostling
+		john
+		hingston
+		john playford
+		thomas purcell
+	Locations - 3
+		canterbury
+		st ann
+		united kingdom
+	facilities - 2
+		chapel royal
+		westminster abbey
+	positions - 6
+		assistant
+		captain
+		king
+		musician
+		prolific composer
+		queen
+#########
+-DBpedia-
+#########
+
+Bakers - 32
+		Purcell
+		Chapel Royal
+		Westminster Abbey
+		Dryden
+		tragedy
+		Shadwell
+		Behn
+		tragedy
+		elegy
+		overture
+		masque
+		opera
+		Ode
+		organ
+		fugue
+		King James
+		composition
+		harmony
+		form
+		chamber-works
+		melody
+		orchestra
+		Grove
+		Lully
+		Ode
+		score
+		Betterton
+		Sacred Music
+		Te Deum
+		anthem
+		song
+		hymn
+	
+		
+Oxford - 19
+		purcell
+		composer
+		organist
+		chapel royal
+		westminster abbey
+		dryden
+		behn
+		organ
+		anthem
+		james Ii
+		william III
+		opser
+		dido and aneas
+		te deum
+		funeral
+		works
+		*serbian orthodox church
+		emotion
+		instrumental
+Wiki - 33
+		born
+		henry purcell
+		musician
+		gentleman
+		chapel royal
+		king charles II of england
+		sons
+		brothers
+		composer
+		westminster abbey
+		unble
+		gentleman
+		majesty
+		chapel
+		chapel royal
+		keeper
+		years
+		ode
+		westminster school
+		anthem
+		lord
+		psalm
+		christmas day
+		read
+		songs
+		dialogues
+		learn
+		reverend
+		sacred
+		II
+		shipwreck
+		psalms
+		passage
+#########
+-Zemanta-
+#########
+
+Bakers - 12
+		the Prophetess, or the History of dioclesian
+		Chapel Royal
+		Westminster Abbey
+		Henry Purcell
+		Dryden's
+		Josias Priest
+		Sacred Music
+		Dean's Yeard
+		Orpheus Britannicus
+		Beaumont and Fletcher
+		London
+		Music
+Oxford - 10
+		westminster abbey
+		chapel royal
+		henry purcell
+		josias priest
+		dido and aneas
+		london
+		te deum
+		benjamin britten
+		vaughan williams
+		james II
+Wiki - 12
+		king charles II of england
+		john gostling
+		captain henry cooke
+		henry purcell
+		chapel royal
+		westminster abbey
+		pelhan humfrey
+		master of the children
+		john playford
+		the indian queen
+		handel
+		history
+###########
+-Extractiv-
+###########
+
+Bakers - 40
+	People - 17
+		Dido
+		Blow
+		Alneas
+		Behn
+		Charles
+		cooke
+		d'urfey
+		epsom wells
+		henry purcell
+		handel
+		james
+		josias priest
+		lee
+		lowe
+		lully
+		nahum tate
+		powell
+	Locations - 7
+		Italian
+		*Shadwell
+		Athens
+		Beaumont
+		*Fletcher
+		Timon
+		York
+	Organisaitons - 3
+		*Betterton
+		*Mus
+		purcell Society
+	Other - 13
+		westminster abbey
+		chapel royal
+		dioclesian
+		harpsichord
+		king arthur
+		matthew locke
+		the prophetess
+		the tempest
+		timon
+		composer
+		contrapuntal
+		fugue
+		organist
+Oxford - 28
+	People 14
+		James II
+		mary
+		william III
+		aneas
+		benjamin britten
+		blow
+		dido
+		henry purcell
+		josias priest
+		*lord
+		matthew locke
+		*purcell soc.
+		thomas purcell
+		vauhan williams
+	locations - 2
+		italy
+		london
+	organisations - 2
+		chapel royal
+		westminster abbey
+	others - 10
+		chelsea
+		te deum
+		bass
+		canzonas
+		composer
+		doggerel
+		elegies
+		organist
+		violins
+		opera
+		
+Wiki - 25
+	People - 10
+		john blow
+		captain henry cooke
+		daniel purcell
+		*edward, henry (edward and henry)
+		john gostling
+		john hingston
+		john playford
+		pelham humfrey
+		henry purcell senior
+		henry purcell
+	Locations - 3
+		canterbury
+		westminster
+		st ann
+	organisations - 2
+		chapel royal
+		westminster school
+	facilities - 1
+		westminster abbey
+	others - 9
+		king charles II
+		master of te children
+		psalms
+		the indian queen
+		cass
+		composer
+		octaves
+		psalm
+		wind instruments
+#########
+-Alchemy-
+#########
+
+Bakers - 43
+	People - 28
+		Henry Purcell
+		Shadwell
+		Westminster Abbey
+		Josias Priest
+		Henry P.
+		Humfrey
+		Dr. Blow
+		King Charles
+		King James
+		King Arthurjohn blow
+		Dean
+		Dryden
+		Matthew Locke
+		Epsom Wells
+		w. organ
+		Playford
+		Basse
+		Mrs. Behn
+		Betterton
+		Orpheus Britannicus
+		Lowe
+		Lee
+		Powell
+		Arnold
+		Novello
+		Page
+		Musick
+		Tudway
+	Locations - 5
+		Westminster
+		St. Ann
+		London
+		Athens
+		Windsor
+	organisations - 2
+		purcell society
+		st. cecilia
+	concepts - 8
+		Henry Purcell
+		John Blow
+		Dido and Aeneas
+		Westminster School
+		Music
+		Westminster Abbey
+		John Dryden
+		Opera
+Oxford - 22
+	People - 12
+		Thomas Purcell
+		Henry
+		King
+		Chapel Royal
+		Matthew Locke
+		Eng.
+		Josias Priest
+		James II
+		William III
+		Benjamin Britten
+		Holst
+		Vaughan Williams
+	Locations - 2
+		London
+		*Aeneas
+	Concepts - 8
+		Henry Purcell
+		Opera
+		Dido and Aeneas
+		John Blow
+		Westminster Abbey
+		Josias Priest
+		Te Deum
+		Westminster School
+wiki - 24
+	People - 14
+		Henry Purcell
+		Daniel Purcell
+		Thomas Purcell
+		Henry Cooke
+		King Charles II
+		Dr. John Blow
+		Pelham Humfrey
+		John Playford
+		Humfrey
+		John Gostling
+		John Hingston
+		Edward
+		Thomas
+		Cooke
+	organisations - 2
+		westminster school
+		royal party
+	concepts - 8
+		Henry Purcell
+		John Blow
+		Pelham Humfrey
+		Chapel Royal
+		Henry Cooke
+		Westminster Abbey
+		English composers
+		Charles II of England

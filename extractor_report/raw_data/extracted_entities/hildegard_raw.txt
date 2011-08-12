@@ -1,0 +1,475 @@
+HILDEGARD OF BINGEN
+
+Word count
+	Bakers - 
+	Oxford - 2036
+	Wiki - 692
+
+#######
+-HUMAN-
+#######
+
+Bakers
+
+Oxford - 46
+	People - 22
+		Hildegard of Bingen
+		Rheinhessen
+		Hildebert
+		Mechthild
+		Jutta von Spanheim
+		Bishop Otto of Bamberg
+		Volmar
+		Friedrich Barbarossa
+		Pope Gregory IX
+		Pope Innocent IV
+		Clement V
+		John XXII
+		Newman
+		Notker Balbulus
+		Peter Abelard
+		Walter of Chatillon
+		St Eucharius
+		St Maximinus
+		Adam of St Victor
+		St Disibod
+		St Ursula
+		St Boniface
+	Locations - 11
+		Germany
+		Avignon
+		Cistercian
+		Franciscan
+		Rudesheim
+		Trier
+		Rhine
+		Alzey
+		Hirsau
+		Wiesbaden
+		Bermersheim
+	facilities-1
+		benedictine monastery
+	Positions - 12
+		visionary
+		writer
+		composer
+		monk
+		priest
+		abbot
+		archbishop
+		hildegard's tutor
+		secretary
+		tutor
+		abbess
+		worker
+			
+Wiki - 22
+	People - 8
+		Hildegard of Bingen
+		Hildebert
+		Mechthild
+		Jutta
+		Count Stephan II of Sponheim
+		Volmar
+		Abbot Kuno
+		Henry I of Mainz
+	Locations - 5
+		the Palatinate Forest
+		Germany
+		Sponheim
+		Rupertsberg
+		Eibingen
+	positions - 9
+		nun
+		scholars
+		count
+		chantress
+		worker
+		visionary
+		magistra
+		abbot
+		prioress
+		
+############
+-OpenCalais-
+############
+
+Bakers
+
+Oxford - 16
+	People - 7
+		Clement V
+		Friedrich Barbarossa
+		Gloria Patri
+		Hildebert
+		Hildegard
+		Jutta von Spanheim
+		Peter Abelard
+	Locations - 5
+		Benedictine Abbey
+		Bermersheim
+		Rudesheim
+		Wiesbaden
+		Garmany
+	Positions - 4
+		archbishop
+		bishop
+		emperor
+		writer and composer
+Wiki - 14
+	People - 6
+		Hildebert
+		Hildegard
+		Hildegard Biblical
+		Jutta
+		Stephan II
+		Volmar
+	Locations - 3
+		Sponheim
+		Germany
+		Palatinate Forest
+	Positions - 5
+		archbishop
+		hildegard's tutor
+		secretary
+		tutor
+		worker
+		
+#########
+-DBpedia-
+#########
+
+oxford - 47
+		bingen
+		benedictine
+		abbess
+		visionary
+		free
+		nobility
+		tomb
+		vows
+		psalter
+		isolation
+		monk
+		monastery
+		fundamental
+		enclosure
+		convent
+		abbot
+		bingen
+		emperor
+		nun
+		abbey
+		miracles
+		woman
+		rule of st benedict
+		canonization
+		liturgy
+		hymn
+		kyrie
+		alleluia
+		sequence
+		patterns
+		modes
+		trilogy
+		medieval
+		melodies
+		soul
+		virtues
+		devil
+		vespers
+		psalm
+		cadence
+		songs
+		BVM
+		virgins
+		arrangement
+		holy spirit
+		melodies
+		play
+wiki - 30
+		born
+		nobles
+		parents
+		birth
+		political
+		tithe
+		enclosure
+		nun
+		scholars
+		care
+		daughter
+		II
+		years
+		concent
+		worker
+		visionary
+		read
+		write
+		scriptures
+		psalter
+		simple-living
+		psalm
+		abbot
+		mainz
+		paralyzed
+		monestary
+		confessor
+		share
+		tutor
+		hear
+
+		
+#########
+-Zemanta-
+#########
+
+Bakers
+
+Oxford - 18
+		Sibyl of the Rhine
+		Riesenkodex
+		Rule of St Benedict
+		St Ursula
+		EVOVAE
+		Pope Gregory IX
+		Pope Innocent IV
+		Rupertsberg
+		Scivas
+		Volmar
+		hildegard of Bingen
+		religion and spirituality
+		christianity
+		denominations
+		catholicism
+		orders
+		men's orders
+		hildegard sings
+Wiki - 10
+		Archbishop Henry I of Mainz
+		Hildegard of Bingen
+		Jutta
+		Rupertsberg
+		Volmar
+		Scivias
+		Disibodenberg
+		Eibingen
+		Palatinate Forest
+		Divine Office
+
+###########
+-Extractiv-
+###########
+
+Bakers
+
+Oxford
+	People - 33
+		Clement V
+		John XXII
+		Pope Gregory IX
+		Pope Innocent IV
+		Baronius
+		Hildegard
+		Mary
+		Notker Balbulus
+		otto of Bamberd
+		St Boniface
+		St Rupert
+		St Ursula
+		Peter Abelard
+		Adam
+		Anima
+		Bermersheim
+		Berschin
+		Causa
+		Chatillon
+		Dendermonde
+		Friedrich Barbarossa
+		God the Father
+		Hildebert
+		Jutta von Spanheim
+		Mechthild
+		Newman
+		Physica
+		St Disibod
+		St Eucharius
+		St Maximinus
+		St Victor
+		Walter
+		Willimann
+	Locations - 9
+		Germany
+		Avignon
+		Cistercian
+		Franciscan
+		Rudesheim
+		Trier
+		Rhine
+		Alzey
+		Hirsau
+	Organisations - 7
+		Devil
+		Ordo
+		Eibingen
+		Disibodenberg
+		Pfau
+		Rupertsberg
+		Benedictine
+	Others - 42
+		morality play
+		church
+		latin
+		all saints' day
+		archbishop of mainz
+		benedictine
+		disibod
+		gloria patri
+		gospel
+		holy spitit
+		kyrie
+		lauds
+		matins
+		physica
+		psalter
+		rheinhessen
+		rule of st benedict
+		rupertsberg
+		scivias
+		vespers
+		abbess
+		abbot
+		alleluia
+		antiphon
+		canonized
+		doxologies
+		dramatic verse
+		exegesis
+		feast day
+		hagiography
+		liturgy
+		lyric poetry
+		melismas
+		natural science
+		neumes
+		patron staints
+		plainchamt
+		prioress
+		psalm
+		song cycle
+		timbres
+		virga
+Wiki - 24
+	People 12
+		Henry I
+		Hildegard
+		Disibodenberg
+		God
+		Hildebert
+		Hildegard Bilical
+		Jutta
+		Kuno
+		Mechthilde
+		Rupertsberg
+		Sponheim
+		Volmar
+	Locations - 3
+		Germany
+		Mainz
+		Palatinate Forest
+	Organisations - 1
+		Eibingen
+	Facility - 1
+		St Rupertsberg
+	Others - 7
+		God
+		Scivias
+		abbot
+		herbarium
+		paslm
+		psaltry
+		tithe
+
+#########
+-Alchemy-
+#########
+
+Bakers
+
+Oxford - 45
+	People 29
+		Jutta
+		Newman
+		Hildegard (D-WIl
+		Bermersheim
+		Jutta von Spanheim
+		Volmar
+		Hessische
+		Hildebert
+		Rhine
+		John XXII
+		Pope Gregory IX
+		Scivias
+		nr Alzey
+		Physica
+		Peter Abelard
+		Berschin
+		Gloria Patri
+		Bishop Otto
+		Bamberg
+		Pope Innocent IV
+		Emperor Friedrich
+		Aubry
+		Lauds
+		Benedictine Abbey
+		Matthew
+		Willimann
+		Walter
+		Eucharius
+		Maximinus
+	Locations - 8
+		Bingen
+		Dendermonde
+		Hirsau
+		Rüdesheim
+		Trier
+		Châtillon
+		Anima
+		Germany
+	Concepts - 8
+		Hildegard of Bingen
+		Benedictine
+		Liturgical year
+		Gregorian chant
+		Order of Saint Benedict
+		Scivias
+		Ordo Virtutum
+		Drama
+		
+Wiki - 22
+	People - 10
+		Hildegard
+		Jutta
+		Volmar
+		abbot
+		Abbot Kuno
+		Hildebert
+		Count Stephan II
+		Archbishop Henry I
+		Rupertsberg
+		Mechthilde
+	Locations - 2
+		Sponheim
+		Germany
+	Organisations - 2
+		Disibodenberg
+		Divine Office
+	Concepts - 8
+		Hildegard of Bingen
+		Monastery
+		Nun
+		Convent
+		Visionary
+		The Age
+		Abbot
+		Enclosure	

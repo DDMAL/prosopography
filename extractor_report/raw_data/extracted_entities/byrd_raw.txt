@@ -1,0 +1,357 @@
+WILLIAM BYRD
+
+Word count
+	Bakers - 210
+	Oxford - 250
+	Wiki - 595
+
+#######
+-HUMAN-
+#######
+
+Bakers - 12
+	People - 8
+		Byrd
+		Tallis
+		William
+		Lady Nevill
+		Barnard
+		Leighton
+		Watson
+		Elizabeth
+	locaitons - 1
+		London
+	Organisations - 1
+		St Pauls
+	Positions - 2
+		senoir chorister
+		pupil
+		organist
+		queen
+Oxford - 16
+	People - 7
+		Bryd, Willliam
+		Tallis
+		Queen Elizabeth I
+		Morely
+		Tomkins
+		Weelkes
+		Bull
+	Places - 4
+		Lincoln
+		Stodon Massey
+		Essex
+		London
+	Facilities - 3
+		Chapel Royal
+		Lincoln Catholic
+		Ingatestone Hall
+	Positions - 2
+		organist
+		composer
+	
+Wiki - 15
+	People - 8
+		Byrd
+		Mary
+		Thomas Tomkins
+		Robert White
+		Robert Parsons
+		Tallis
+		Parsley
+		Ferrabosco
+	locations - 2
+		Israel
+		Lincoln
+	Facilities - 1
+		Lincoln Cathedral
+	Positions - 4
+		organist
+		choirmaster
+		composer
+		dean
+	
+	
+############
+-OpenCalais-
+############
+
+Bakers
+	locations - 3
+		Lincoln
+		London
+		*massachusettes
+	Company - 2
+		*Cathedral Music
+		*Selected Church Music
+	Facility - 1
+		Chapel Royal
+	Position - 2
+		organist
+		queen
+		
+Oxford - 11
+	People - 3
+		*Chapel Royal
+		*Lincoln Cath
+		*Papism
+	locations - 1
+		London
+	Facility - 1
+		Ingatestone Hall
+	Organisation -1
+		*Great Service
+	Position - 4
+		composer
+		hon. organist
+		organist
+		queen
+	product - 1
+		*Essex
+Wiki - 11
+	People - 5
+		Byrd
+		Julian Birley
+		Robert Parsons
+		Robert White
+		Thomas Tomkins
+	Locations - 2
+		Lincoln
+		Israel
+	Facilities - 1
+		Lincoln Cathedral
+	Positions - 3
+		composer
+		dean
+		organist
+
+#########
+-DBpedia-
+#########
+
+Bakers - 2
+		Thomas Tallis
+		Chapel Royal
+Oxford - 5
+		byrd, william
+		chapel
+		tallis
+		royal
+		morley
+Wiki - 29
+		easter
+		sarum
+		liturgical
+		hymns
+		antiphons
+		training
+		lincoln cathedral
+		polyphony
+		liturgy
+		children
+		composer
+		matins
+		communion
+		cathedral
+		works
+		gamut
+		fantasia
+		pavans
+		elizabethan
+		variations
+		liturgical
+		teenager
+		psalm
+		motets
+		lamentations of jerimiah
+		rite
+		holy week
+		tallis
+		nostalgia
+#########
+-Zemanta-
+#########
+
+Bakers - 11
+		Chapel Royal
+		Sonets
+		Musica Transalpina
+		Byrd
+		Psalms
+		Parthenia
+		London
+		St Paul
+		Old English
+		Watson's
+		Madrigal
+	
+Oxford - 11
+		William Byrd
+		Chapel Royal
+		Stondon Massey
+		Ingatestone Hall
+		London
+		England
+		In Nomines
+		Roman Catholicism
+		variation form
+		motets
+		contrapuntist
+Wiki - 11
+		lincoln cathedral
+		byrd
+		anglican church music
+		the lamentations of jerimiah
+		robert parsons
+		thomas tomkins
+		holy week
+		round
+		protestant reformers
+		easter
+		lincoln cathedral
+		
+	
+###########
+-Extractiv-
+###########
+
+Bakers
+	People - 3
+		Byrd
+		Nevill
+		Tallis
+	Location - 2
+		Lincoln
+		St Paul
+	other - 2
+		contrapuntist
+		organist
+Oxford
+	People - 8
+		Queen Elizabeth
+		Bull
+		Byrd
+		Chapel Royal
+		Morley
+		Tallis
+		Tomkins
+		Weelkes
+	Locations - 3
+		London
+		Essex
+		Stondon Massey
+	Facility - 1
+		Ingatestone Hall
+	Other - 12
+		Chapel Royal
+		In Nomines
+		Roman Catholicism
+		composer
+		contrapuntist
+		galliards
+		madrigals
+		motets
+		organsit
+		pavans
+		variation form
+		virginals
+Wiki - 38
+	People - 9
+		Byrd
+		Dean
+		Julian Birley
+		Mary
+		Parsley
+		Robert Parsons
+		Robert Whilte
+		*Similes
+		Thomas Tomkins
+	Locations - 2
+		Israel
+		Lincoln
+	Others - 27
+		In Nomine
+		Lincoln Cathedral
+		Latin
+		Anglican
+		Anglican church music
+		Catholic
+		Chapter
+		Elizabethan
+		F1
+		Ground
+		Holy Week
+		Lamentations of Jerimiah
+		Lincoln
+		Matins
+		Protestant
+		Puritanism
+		antiphons
+		composer
+		fantasia
+		galliards
+		keyboard
+		liturgy
+		motets
+		organist
+		pavans
+		polyphony
+		psalm
+		
+#########
+-Alchemy-
+#########
+
+Bakers - 13
+	People - 11
+		Tallis
+		Byrd
+		*Pietie
+		William
+		*Musica Transalpina
+		Lady Nevill
+		*Pauer
+		Barnard
+		Leighton
+		Watson
+		Elizabeth
+	City - 2
+		London
+		Lincoln
+Oxford - 12
+	People - 8
+		Byrd
+		Tallis
+		William
+		Eng
+		Morley
+		Chapel Royal
+		Queen Elizabeth
+		Tomkins
+	Locations - 3
+		Lincoln
+		London
+		Essex
+	Facility - 1
+		ingatestone Hall
+Wiki - 16
+	People - 10
+		Mr Byrd
+		Yard Lincoln
+		Elizabeth Catholic
+		Mary
+		Julian Birley
+		De lamentatione
+		Robert White
+		Thomas Tomkins
+		Jerimiah
+		Robert Parsons
+	Locations - 2
+		Lincoln
+		Israel
+	Facility - 1
+		Lincoln Cathedral
+	Organisations - 3
+		Anglican
+		Protestant
+		Anglican Church

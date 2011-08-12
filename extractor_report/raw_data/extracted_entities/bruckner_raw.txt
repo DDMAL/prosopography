@@ -1,0 +1,329 @@
+BRUCKNER
+
+Word count
+	Bakers - 254
+	Oxford - 801
+	Wiki - 197
+
+#######
+-HUMAN-
+#######
+
+Bakers - 16
+	People - 5
+		Franz Brunner
+		Bruckner
+		O.Kitzler
+		Sechter
+		Wagner
+	loctions - 5
+		France
+		Uk
+		Vienna
+		Linz-on-Danube
+		Ansfelden
+	Organisations - 1
+		Vienna university
+	Positions - 5
+		cathedral organist
+		organist
+		composer
+		teacher
+		Lektor
+Oxford - 28
+	People - 12
+		Joseph Bruckner
+		Otto Kitzler
+		Brahms
+		Wagner
+		Schubert
+		Robert Haas
+		Leopold Novak
+		Hanslick
+		Nikisch
+		Lebi
+		Richter
+		Palestrina
+	Locations - 7
+		Austria
+		London
+		Munich
+		Notre Dame
+		Paris
+		Vienna
+		Linz
+	Organisations - 2
+		Vienna University
+		St Florians Monestary
+	Positions - 7
+		cellist
+		composer
+		lecturer
+		official organist
+		teacher
+		choirboy
+Wiki - 9
+	People - 6
+		Anton Bruckner
+		Richard Wagner
+		Hugo Wolf
+		Eduard Hanslick
+		Johannes Brahms
+		Gustav Mahler
+	locaitons - 1
+		Austria
+	Positions - 2
+		composer
+		critic
+	
+############
+-OpenCalais-
+############
+
+Bakers - 8
+	People - 1
+		Franz Brunner
+	locaitons  - 3
+		France
+		UK
+		Vienna
+	Organisations - 1
+		Vienna University
+	Positions - 3
+		cathedral organist
+		organist
+		organist, composer, and teacher
+Oxford - 14
+	People - 3
+		Joseph Bruckner
+		Otto Kitzler
+		Wagner
+	locations - 5
+		London
+		Munich
+		Notre Dame
+		Paris
+		Vienna
+	Organisations - 1
+		Vienna University
+	Positions - 5
+		cellist
+		composer
+		composer and organist
+		official organist
+		teacher
+Wiki - 8
+	People - 6
+		Anton Bruckner
+		Eduard Hanslick
+		Gustav Mahler
+		Hugo Wolf
+		Johannes Brahms
+		Richard Wagner
+	Position - 2
+		composer
+		critic
+#########
+-DBpedia-
+#########
+
+Bakers - 2
+	bruckner, anton
+	romantic
+Oxford - 31
+	bruckner
+	composer
+	linz
+	monastery
+	virtuoso
+	teacher
+	counterpoint
+	harmony
+	orchestration
+	paris
+	wagner
+	munich
+	premiere
+	tristan und isolde
+	delight
+	brahms
+	te deum
+	coda
+	movement
+	funeral
+	score
+	richter
+	simple-living
+	child
+	schubert
+	symphonic
+	polyphony
+	intimate
+	schizophrenia
+	exists
+	works
+Wiki - 4
+	anton bruckner
+	polyphony
+	richard wagner
+	eduard hanslick
+
+#########
+-Zemanta-
+#########
+
+Bakers - 12
+	Vienna
+	Danube
+	Ansfelden
+	Upper Austria
+	Gradual
+	Linz
+	Austria
+	Government
+	cathedral organist
+	Te Deum
+	Offertories
+	Wagner
+Oxford - 9
+	anton bruckner
+	vienna
+	linz
+	robert haas
+	leopold nowak
+	royal albert hall
+	ansfelden
+	richer wagner
+	st florian
+Wiki - 11
+	Anton Bruckner
+	Eduard Hanslick
+	Richard Wagner
+	German Romanticism
+	Hugo Wolf
+	Johannes Brahms
+	Gustav Mahler
+	Austria
+	God
+	composer
+	Cleveland orchestra
+	
+###########
+-Extractiv-
+###########
+
+Bakers - 8
+	People - 3
+		Franz Brunner
+		O. Kitzler
+		Sechter
+	locations - 5
+		England
+		France
+		Vienna
+		Vienna Univ
+		Danube
+Oxford - 32
+	People - 9
+		bruckner
+		levi
+		otto kitzler
+		palestrina
+		robert haas
+		schubert
+		sechter
+		wagner
+		brahms
+	locations - 7
+		Austria
+		linz
+		london
+		munich
+		paris
+		vienna
+		ansfelden
+	organisation - 7
+		8th sym
+		9th
+		nowak
+		st florian
+		cons
+		notre dame
+		royal albert hall
+	other - 9
+		cellist
+		choirboy
+		coda
+		composer
+		contrapuntal
+		counterpoint
+		improviser
+		organist
+		polyphony
+Wiki - 14
+	People - 6
+		Anton Bruckner
+		Eduard Hanslick
+		Gustav Mahler
+		Hugo Wolf
+		Johannes Brahms
+		Richard Wagner
+	locations - 1
+		Austria
+	other - 7
+		German Romanticism
+		composer
+		dissonances
+		enfant terrible
+		motets
+		polyphony
+		symphonies
+#########
+-Alchemy-
+#########
+
+Bakers - 8
+	People - 5
+		Anton
+		Franz Brunner
+		Wagner
+		O. Kitzler
+		Dr. hon.
+	locations - 3
+		Austria
+		France
+		England
+Oxford - 21
+	People - 14
+		Joseph Bruckner
+		Wagner
+		Buckner Soc.
+		Linz Cath
+		Anton
+		rev. F.p.
+		Robert Haas
+		Leopold Nowak
+		Otto Kitzler
+		Schubert
+		levi
+		Brahms
+		Tristan
+		Sym.
+	locations - 6
+		Vienna
+		Paris
+		Munich
+		Notre Dame
+		London
+	Organisation - 1
+		Vienna University
+Wiki - 7
+	People - 6
+		Anton Bruckner
+		Eduard Hanslick
+		Gustav Mahler
+		Hugo Wolf
+		Johannes Brahms
+		Richard Wagner
+	locations - 1
+		austria
